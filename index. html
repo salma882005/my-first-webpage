@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>من نحن - شركة المستقبل</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+        }
+        header {
+            background-color: #004466;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 40px;
+            background-color: white;
+            margin: 20px;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #222;
+            color: #ccc;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>شركة المستقبل</h1>
+        <p>نصنع الغد بأفكار اليوم</p>
+    </header>
+
+    <section>
+        <h2>من نحن</h2>
+        <p>
+            شركة المستقبل هي شركة رائدة في مجال التكنولوجيا والابتكار، تأسست عام 2010 وتسعى لتقديم حلول تقنية متطورة تساعد الأفراد والشركات على تحقيق أهدافهم بكفاءة وسرعة.
+        </p>
+    </section>
+
+    <section>
+        <h2>رؤيتنا</h2>
+        <p>
+            أن نكون الشركة الأولى في الشرق الأوسط في مجال التحول الرقمي والذكاء الاصطناعي.
+        </p>
+    </section>
+
+    <section>
+        <h2>خدماتنا</h2>
+        <ul>
+            <li>تطوير تطبيقات الويب</li>
+            <li>تصميم واجهات المستخدم</li>
+            <li>استشارات تقنية</li>
+            <li>حلول الذكاء الاصطناعي</li>
+        </ul>
+    </section>
+
+    <footer>
+        جميع الحقوق محفوظة &copy; 2025 - شركة المستقبل
+    </footer>
+
+</body>
+</html>
